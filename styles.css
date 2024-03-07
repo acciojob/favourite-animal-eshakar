@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+.pic{
+	width: 150px;
+	height: 150px;
+	padding: 50px;
+	border-radius: 80px;-
+}
+p{
+	/* margin: 0 auto;
+	justify-content: center; */
+	text-align: center;
+}
+*{
+	background: mediumaquamarine;
+}
